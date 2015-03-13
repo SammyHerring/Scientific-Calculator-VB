@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CALCULATOR">
+</Property><Property Name="Solution File" Value="C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR.sln">
+</Property><Property Name="User Options File" Value="C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR.suo">
+</Property><Property Name="Date" Value="10 November 2012">
+</Property><Property Name="Time" Value="21:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CALCULATOR.sln" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CALCULATOR.suo" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR.suo">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CALCULATOR.vbproj" Description="Project file successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CALCULATOR.vbproj">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CALCULATOR.vbproj.user" Description="Project user file successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CALCULATOR.vbproj.user">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\Calculator.Designer.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\Calculator.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\Calculator.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\Calculator.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CalculatorConstants.Designer.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CalculatorConstants.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CalculatorConstants.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CalculatorConstants.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CalculatorConversions.Designer.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CalculatorConversions.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CalculatorConversions.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CalculatorConversions.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\Application.myapp" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\Settings.settings" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\Calculator.resx" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\Calculator.resx">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CalculatorConstants.resx" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CalculatorConstants.resx">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CalculatorConversions.resx" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\CalculatorConversions.resx">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\My Project\Resources.resx" Description="File successfully backed up as C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\Backup\CALCULATOR\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CALCULATOR.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CALCULATOR" Source="CALCULATOR\CALCULATOR.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CALCULATOR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CALCULATOR.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CALCULATOR" Source="CALCULATOR\CALCULATOR.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

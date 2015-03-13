@@ -1,0 +1,50 @@
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\bin\Debug\CALCULATOR.xml
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.FormCalculator.resources
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.FormConstants.resources
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.FormConversions.resources
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.vbproj.GenerateResource.Cache
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Documents and Settings\SAAD\Local Settings\Application Data\Temporary Projects\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.xml
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.FormCalculator.resources
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.FormConstants.resources
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.FormConversions.resources
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+C:\Documents and Settings\SAAD\My Documents\Visual Studio 2008\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.vbproj.GenerateResource.Cache
+C:\Documents and Settings\SAAD\Desktop\VB.NET PROGRAMS\CALCULATOR\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Documents and Settings\SAAD\Desktop\VB.NET PROGRAMS\CALCULATOR\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Documents and Settings\SAAD\Desktop\VB.NET PROGRAMS\CALCULATOR\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Users\0herring\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.xml
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.FormCalculator.resources
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.FormConstants.resources
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.FormConversions.resources
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.manifest
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.application
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe.manifest
+C:\Users\Sammy\Dropbox\Programming\VB\CALCULATOR 2\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.application
+C:\Users\0herring\Dropbox\Programming\VB\Scientific Calc\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\0herring\Dropbox\Programming\VB\Scientific Calc\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Users\0herring\Dropbox\Programming\VB\Scientific Calc\CALCULATOR\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
